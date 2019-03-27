@@ -1,5 +1,5 @@
 # TBot
-A simple discord.py bot. Contains various fun commands such as using a thesaurus, displaying an emote tally, and simple conversations.
+A simple discord.py bot. Contains various fun commands such as using a thesaurus or rhyming dictionary, displaying an emote tally, and having simple conversations.
 
 
 
